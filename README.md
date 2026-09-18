@@ -69,3 +69,12 @@ just placed somewhere you don't need root to write to.
 ## License
 
 MIT
+
+---
+
+Built by [Loose Change Labs](https://loosechangelabs.github.io/). If this
+saved you a debugging session, we also ship a few paid Claude Code skill
+kits built the same way — tested against real problems, not written
+speculatively. One of them ([Rootless Sandbox
+Toolkit](https://loosechangelabs.github.io/#products)) generalizes this
+exact technique beyond just Playwright.
